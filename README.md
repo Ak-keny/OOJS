@@ -1,5 +1,5 @@
 OOP-Game-Show-App
-#Ready Phrase Hunter ?
+# Ready Phrase Hunter ?
 
 A mix of Wheel of Fortune (TV Show) and Ready Player one (Movie)
 
@@ -15,7 +15,7 @@ The player continues to select letters until they guess the phrase and win, or m
 The player can guess a letter only once. After they’ve guessed a letter, your programming will need to disable that letter on the onscreen keyboard.
 
 
-#Change's Made To The Style
+Alt-# Change's Made To The Style
 
 1.start overlay
 *start overlay back ground image from color
